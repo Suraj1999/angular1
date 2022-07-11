@@ -1,0 +1,19 @@
+h1{
+    font-size: 50px;
+    /* margin: 30px; */
+}
+p{
+    /* margin: 30px; */
+}
+.header{
+   margin: 0px; 
+   padding: 20px;
+    background-color: rgb(193, 227, 240);
+}
+.fs{
+    float: left;
+}
+.sc{
+    float: right;
+    margin-right: 30%;
+}
